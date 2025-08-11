@@ -29,4 +29,8 @@
 	  </Reference>
 	</ItemGroup>
 
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+	  <Exec Command="powershell.exe -File &quot;$(ProjectDir)releasebuild.ps1&quot;" />
+	</Target>
+
 </Project>

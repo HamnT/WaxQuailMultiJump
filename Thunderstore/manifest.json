@@ -1,7 +1,7 @@
 ﻿{
-	"name": "WaxQuailMultiJumpUpdated",
+	"name": "WaxQuailMultiJump",
 	"version_number": "1.0.2",
-	"website_url": "https://github.com/hamnT",
+	"website_url": "https://github.com/hamnT/WaxQuailMultiJump",
 	"description": "Makes Wax Quail apply to hopoo feather jumps.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2120",
